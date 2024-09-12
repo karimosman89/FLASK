@@ -1,0 +1,4 @@
+Flask
+vaderSentiment
+pandas
+random
